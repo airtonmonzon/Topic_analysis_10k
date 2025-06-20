@@ -8,3 +8,5 @@ The codes used are divided into three:
 
 Please note that the first part of the code may take time to download because it covers 500 companies and spans 10 years,
 so it involves a large number of text files.
+
+The data in 'Input' its an example of the data of the total 10-k. All data can't be upload for a size problem.
